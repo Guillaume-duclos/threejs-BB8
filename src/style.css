@@ -1,13 +1,15 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  text-align: center;
 }
 
-html, body {
-
+h1 {
+  font-size: 3em;
 }
 
-canvas {
-  background-color: #000000;
+p, a {
+  font-size: 2.5em;
+}
+
+a {
+  display: block;
 }
